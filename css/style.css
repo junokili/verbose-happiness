@@ -39,7 +39,7 @@ h1, h2, h3, h4 {
 }
 
 .general-sub {
-    font-family: Exo, sans-serif;
+    font-family: "Exo", "sans-serif";
     font-weight: 300;
     color: #676767;
 }
@@ -59,7 +59,7 @@ h1, h2, h3, h4 {
 }
 
 .section-heading {
-    font-family: Exo, sans-serif;
+    font-family: "Exo", "sans-serif";
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
@@ -89,7 +89,7 @@ margin: 0;
 }
 
 .name {
-    font-family: Exo, sans-serif;
+    font-family: "Exo", "sans-serif";
     font-weight: 400;
     font-size: 46px;
     margin-top: 50px;
@@ -97,7 +97,7 @@ margin: 0;
 }
 
 .title {
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", "sans-serif";
     font-weight: 300;
     font-size: 28px;
     margin-top: 20px;
@@ -210,4 +210,15 @@ transition: all 0.35s ease-in-out;
 
 #footer-details {
     padding: 20px;
+}
+
+/*---------------------------- three reasons ------------------*/
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #48cbfc;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
