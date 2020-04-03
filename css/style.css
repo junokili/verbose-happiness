@@ -376,6 +376,8 @@ button[type="submit"] {
     background-color: #48cbfc;
 }
 
+div#map {min-height: 360px;}
+
 /*---------------------------- media query ------------------*/
 
 @media(min-width: 992px) {
